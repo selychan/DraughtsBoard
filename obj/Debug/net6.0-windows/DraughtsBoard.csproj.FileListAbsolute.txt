@@ -1,0 +1,17 @@
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\bin\Debug\net6.0-windows\DraughtsBoard.exe
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\bin\Debug\net6.0-windows\DraughtsBoard.deps.json
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\bin\Debug\net6.0-windows\DraughtsBoard.runtimeconfig.json
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\bin\Debug\net6.0-windows\DraughtsBoard.dll
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\bin\Debug\net6.0-windows\DraughtsBoard.pdb
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.csproj.AssemblyReference.cache
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.Form1.resources
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.csproj.GenerateResource.cache
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.AssemblyInfoInputs.cache
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.AssemblyInfo.cs
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.csproj.CoreCompileInputs.cache
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.dll
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\refint\DraughtsBoard.dll
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.pdb
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\DraughtsBoard.genruntimeconfig.cache
+C:\Users\sella\source\repos\DraughtsBoard\DraughtsBoard\obj\Debug\net6.0-windows\ref\DraughtsBoard.dll
